@@ -14,3 +14,13 @@ Our recommendation engine analyzes movie descriptions, metadata, and user intera
 ## Streamlit Web App: 
 Leveraged Streamlit to create an interactive interface for users to explore movie recommendations effortlessly.
 
+
+![image](https://github.com/sriayush02/Movie-Recommender-System/assets/83555352/dba7d367-fa0a-4eb5-abc6-6756fd26e7f5)
+
+![image](https://github.com/sriayush02/Movie-Recommender-System/assets/83555352/8169eb07-bfd0-4d06-95c5-2fdcfec16426)
+
+![image](https://github.com/sriayush02/Movie-Recommender-System/assets/83555352/a8a60206-ce76-4735-b499-b82829cde71a)
+
+
+
+
